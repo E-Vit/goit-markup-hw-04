@@ -280,11 +280,6 @@ img
     margin-bottom: 8px;
 }
 
-.strategy-icons
-{
-
-}
-
 .title
 {
     font-weight: 500;
@@ -495,7 +490,7 @@ img
 
 .footer-social-link:hover
 {
-        background-color: #31D0AA;
+    background-color: #31D0AA;
 }
 
 .footer-social-link:focus
